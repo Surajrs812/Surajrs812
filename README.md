@@ -7,8 +7,6 @@
 
 - 🔭 I’m currently working as *AI Research Intern at Mitra Robot*
 
-- 🌱 I’m currently learning *Advanced Generative AI*
-
 - 📝 I regularly write articles on [Medium](https://medium.com/@rssuraj96)
 
 - 💬 Ask me about *AI, Data Science, Coding and Technology*
