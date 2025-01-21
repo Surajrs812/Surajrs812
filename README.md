@@ -1,15 +1,15 @@
 <h1 align="center">Hi 👋, I'm Suraj R S</h1>
-<h3 align="center">AI Enthusiast</h3>
+<h3 align="center">Generative AI Enthusiast</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=surajrs812&label=Profile%20views&color=0e75b6&style=flat" alt="surajrs812" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=surajrs812" alt="surajrs812" /></a> </p>
 
-- 🔭 I’m currently working as *AI Research Intern at Mitra Robot*
+- 🔭 I’m currently working on AI Agents 
 
 - 📝 I regularly write articles on [Medium](https://medium.com/@rssuraj96)
 
-- 💬 Ask me about *AI, Data Science, Coding and Technology*
+- 💬 Ask me about *Generative AI, Data Science and Technology*
 
 - 📫 How to reach me *rssuraj96@gmail.com*
 
